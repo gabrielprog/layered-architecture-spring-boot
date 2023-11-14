@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8080/client HTTP/1.0
+Content-type: application/json
+
+{
+    "name": "Gabriel01",
+    "age": 200
+}
